@@ -1,12 +1,12 @@
-# R Course for Beginners
+# R ile Temel Istatistik Kursu Materyalleri 
 
-This repository contains the materials for the "R Course for Beginners" including lessons, scripts, datasets, and reports.
+ Bu repoda R ile Temel İstatistik kursunda kullandığım materyaller vardır.
 
 ## Folder Structure:
-- `source/`: Contains the R scripts for each lesson.
-- `data/`: Contains the datasets used in the lessons.
-- `homework/`: Contains the generated reports from the course (e.g., HTML or PDF).
-- `figures/`: Contains visualizations and plots created during the course.
+- `source/`: R script dosyalarını içerir.
+- `data/`: Kullanılan veri dosyaları.
+- `homework/`: Kurs için verilen ödev ve bunların cevapları.
+- `presentations/`: Sunum dosyaları.
 
 ## Getting Started:
 1. Open the RStudio project file (`R-Course.Rproj`) in RStudio.
@@ -19,5 +19,4 @@ This repository contains the materials for the "R Course for Beginners" includin
 - To install the required packages, run the following in R:
   
   ```r
-  install.packages(c("ggplot2", "dplyr", "tidyr"))
 
