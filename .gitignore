@@ -55,4 +55,4 @@ rsconnect/
 *.html
 *.pdf
 data/
-
+!presentations/*.pdf
