@@ -1,11 +1,11 @@
 # R ile Temel Istatistik Kursu Materyalleri 
 
- Bu repoda R ile Temel İstatistik kursunda kullandığım materyaller vardır.
+ Bu repoda farklı yıllarda Özgür Yazılım Kamplarında R ile Temel İstatistik kursunda kullandığım materyalleri sizinle paylaşıyorum.
 
 ## Folder Structure:
 - `source/`: R script dosyalarını içerir.
 - `data/`: Kullanılan veri dosyaları.
-- `homework/`: Kurs için verilen ödev ve bunların cevapları.
+- `homework/`: Kurs için verilen ödev ve cevaplar.
 - `presentations/`: Sunum dosyaları.
 
 ## Getting Started:
@@ -19,4 +19,8 @@
 - To install the required packages, run the following in R:
   
   ```r
+
+## License 
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
