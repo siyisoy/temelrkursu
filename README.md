@@ -4,9 +4,7 @@
 
 ## Folder Structure:
 - `source/`: R script dosyalarını içerir.
-- `data/`: Kullanılan veri dosyaları.
 - `homework/`: Kurs için verilen ödev ve cevaplar.
-- `presentations/`: Sunum dosyaları.
 
 ## Getting Started:
 1. Open the RStudio project file (`R-Course.Rproj`) in RStudio.

@@ -56,4 +56,4 @@ rsconnect/
 *.pdf
 data/
 !presentations/*.pdf
-!odev/*.pdf
+!homework/*.pdf
